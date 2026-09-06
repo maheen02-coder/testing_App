@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* position: sticky; */
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: black;
+}
+.matias_name {
+  padding-top: 20px;
+  text-align: center;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: #c9f337;
+  background-color: rgba(255, 255, 255, 0.137);
+  padding-top: 10px;
+  /* padding-left: 5px; */
+  /* padding-right: 5px; */
+  border-bottom: 2px solid #c9f337;
+}

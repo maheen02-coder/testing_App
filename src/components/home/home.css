@@ -1,4 +1,8 @@
-/* .logo_ul{
+.H2_x{
+  margin-top: 100px;
+  color: white;
+}
+.logo_ul{
   color: white;
   display: flex;
   flex-direction: row;
@@ -35,20 +39,14 @@ a{
 .btn_ul{
   text-align: center;
 }
-.navbar{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  position: sticky;
-  top: 30px;
-}
+
 p{
     padding-bottom: 10px;
   border-bottom: 2px solid white;
   /* width: 300px; */
-  /* font-size: 30px;
-} */
-/* .logo{
+  font-size: 30px;
+}
+.logo{
   text-align: center;
 }
 h2{
@@ -70,8 +68,9 @@ h2{
     display: flex;
   justify-content: space-around;
   margin-top: 100px;
-} */
-/* .last_ul{
+  align-items: center;
+}
+.last_ul{
   color: white;
   display: flex;
   gap:100px;
@@ -79,7 +78,8 @@ h2{
   rotate: calc(90deg);
   position: relative;
   right: 740px;
-  top: 150px;
-} */ 
-
-
+  top: 350px;
+}
+.p_for_padding{
+ margin-top: 30px;
+}

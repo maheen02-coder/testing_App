@@ -1,0 +1,47 @@
+.Blog{
+  display: flex;
+    color: white;
+    padding: 50px;
+}
+
+.left{
+    width: 40%; 
+}
+
+.left p{
+    color:#d5e56c;
+}
+
+.left h1{
+    font-size: 60px;
+}
+
+.Blog-btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: #d5e56c;
+    border: none;
+    margin-top: 30px;
+}
+
+.Right{
+    width: 60%;
+}
+
+.Right h2{
+    font-size: 35px;
+    color: white;
+    line-height: 1.4;
+}
+
+.Right hr{
+    width: 100%;
+    border: 0;
+    border-top: 1px solid white;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.Blog{
+  margin-top: 100px;
+}

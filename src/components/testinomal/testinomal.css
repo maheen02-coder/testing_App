@@ -1,0 +1,25 @@
+.h1_color{
+  color: aliceblue;
+}
+.setting_li{
+  margin-top: 10px;
+  margin-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.dis1_flex{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgba(128, 128, 128, 0.241);
+  position: absolute;
+  margin-left: 200px;
+}
+.pre_design{
+  
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h1_color{
+  margin-top: 100px;
+}
